@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U0/STM32U031F4Px:STM32U031F4Px",
+  "name": "STM32U031F4Px",
+  "library": "MCU_ST_STM32U0",
+  "file": "MCU_ST_STM32U0.kicad_symdir/STM32U031F4Px.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 16KB flash, 12KB RAM, 17 GPIO, TSSOP20",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u031f4.pdf",
+  "keywords": "Arm Cortex-M0+ STM32U0 STM32U0x1",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u0@master/parts/STM32U031F4Px/",
+  "part_path": "parts/STM32U031F4Px",
+  "symbol_file": "parts/STM32U031F4Px/STM32U031F4Px.kicad_sym",
+  "source_library": "MCU_ST_STM32U0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:26.714Z"
+}

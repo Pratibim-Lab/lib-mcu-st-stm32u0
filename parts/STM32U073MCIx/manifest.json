@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U0/STM32U073MCIx:STM32U073MCIx",
+  "name": "STM32U073MCIx",
+  "library": "MCU_ST_STM32U0",
+  "file": "MCU_ST_STM32U0.kicad_symdir/STM32U073MCIx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 256KB flash, 40KB RAM, 56 MHz, 69 GPIO, UFBGA81",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u073mc.pdf",
+  "keywords": "Arm Cortex-M0+ STM32U0 STM32U0x3",
+  "footprint": "Package_BGA:ST_UFBGA-81_5x5mm_Layout9x9_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u0@master/parts/STM32U073MCIx/",
+  "part_path": "parts/STM32U073MCIx",
+  "symbol_file": "parts/STM32U073MCIx/STM32U073MCIx.kicad_sym",
+  "source_library": "MCU_ST_STM32U0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:26.788Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U0/STM32U073RCTx:STM32U073RCTx",
+  "name": "STM32U073RCTx",
+  "library": "MCU_ST_STM32U0",
+  "file": "MCU_ST_STM32U0.kicad_symdir/STM32U073RCTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 256KB flash, 40KB RAM, 56 MHz, 53 GPIO, LQFP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u073rc.pdf",
+  "keywords": "Arm Cortex-M0+ STM32U0 STM32U0x3",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u0@master/parts/STM32U073RCTx/",
+  "part_path": "parts/STM32U073RCTx",
+  "symbol_file": "parts/STM32U073RCTx/STM32U073RCTx.kicad_sym",
+  "source_library": "MCU_ST_STM32U0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:26.807Z"
+}

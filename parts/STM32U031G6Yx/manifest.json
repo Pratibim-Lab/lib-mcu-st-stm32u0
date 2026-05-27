@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U0/STM32U031G6Yx:STM32U031G6Yx",
+  "name": "STM32U031G6Yx",
+  "library": "MCU_ST_STM32U0",
+  "file": "MCU_ST_STM32U0.kicad_symdir/STM32U031G6Yx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 12KB RAM, 24 GPIO, WLCSP27",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u031g6.pdf",
+  "keywords": "Arm Cortex-M0+ STM32U0 STM32U0x1",
+  "footprint": "Package_CSP:ST_WLCSP-27_2.34x2.55mm_Layout9x6_P0.4mm_Stagger",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u0@master/parts/STM32U031G6Yx/",
+  "part_path": "parts/STM32U031G6Yx",
+  "symbol_file": "parts/STM32U031G6Yx/STM32U031G6Yx.kicad_sym",
+  "source_library": "MCU_ST_STM32U0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:26.723Z"
+}

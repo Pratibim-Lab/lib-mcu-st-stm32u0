@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U0/STM32U073HCYx:STM32U073HCYx",
+  "name": "STM32U073HCYx",
+  "library": "MCU_ST_STM32U0",
+  "file": "MCU_ST_STM32U0.kicad_symdir/STM32U073HCYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 256KB flash, 40KB RAM, 33 GPIO, WLCSP42",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u073hc.pdf",
+  "keywords": "Arm Cortex-M0+ STM32U0 STM32U0x3",
+  "footprint": "Package_CSP:ST_WLCSP-42_2.93x2.82mm_Layout12x7_P0.4mm_Stagger",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u0@master/parts/STM32U073HCYx/",
+  "part_path": "parts/STM32U073HCYx",
+  "symbol_file": "parts/STM32U073HCYx/STM32U073HCYx.kicad_sym",
+  "source_library": "MCU_ST_STM32U0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:26.768Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U0/STM32U031R8Tx:STM32U031R8Tx",
+  "name": "STM32U031R8Tx",
+  "library": "MCU_ST_STM32U0",
+  "file": "MCU_ST_STM32U0.kicad_symdir/STM32U031R8Tx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 12KB RAM, 53 GPIO, LQFP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u031r8.pdf",
+  "keywords": "Arm Cortex-M0+ STM32U0 STM32U0x1",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u0@master/parts/STM32U031R8Tx/",
+  "part_path": "parts/STM32U031R8Tx",
+  "symbol_file": "parts/STM32U031R8Tx/STM32U031R8Tx.kicad_sym",
+  "source_library": "MCU_ST_STM32U0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:26.747Z"
+}
